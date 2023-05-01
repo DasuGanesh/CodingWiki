@@ -1,0 +1,17 @@
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\bin\Debug\net7.0\CodingWiki_DataAccess.deps.json
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\bin\Debug\net7.0\CodingWiki_DataAccess.dll
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\bin\Debug\net7.0\CodingWiki_DataAccess.pdb
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\obj\Debug\net7.0\CodingWiki_DataAccess.csproj.AssemblyReference.cache
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\obj\Debug\net7.0\CodingWiki_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\obj\Debug\net7.0\CodingWiki_DataAccess.AssemblyInfoInputs.cache
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\obj\Debug\net7.0\CodingWiki_DataAccess.AssemblyInfo.cs
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\obj\Debug\net7.0\CodingWiki_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\obj\Debug\net7.0\CodingWiki_DataAccess.dll
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\obj\Debug\net7.0\refint\CodingWiki_DataAccess.dll
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\obj\Debug\net7.0\CodingWiki_DataAccess.pdb
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\obj\Debug\net7.0\ref\CodingWiki_DataAccess.dll
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\bin\Debug\net7.0\CodingWiki_DataAccess.runtimeconfig.json
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\bin\Debug\net7.0\CodingWiki_Model.dll
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\bin\Debug\net7.0\CodingWiki_Model.pdb
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\obj\Debug\net7.0\CodingWiki_DataAccess.csproj.CopyComplete
+C:\Users\ganes\source\repos\CodingWiki\CodingWiki_DataAccess\obj\Debug\net7.0\CodingWiki_DataAccess.genruntimeconfig.cache
